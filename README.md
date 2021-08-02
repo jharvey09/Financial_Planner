@@ -4,6 +4,17 @@ Also createing a Retirement Planning Tool that will use the Alpaca API to grab h
 ### Added Projections
 I ran a couple of extra simulations on shorter terms to show different simulated returns using the Monte Carlo simulator. You can see terms for 5 and 10 year projections.
 
+# Resources
+1. Alpaca Markets API
+2. Alternative Free Crypto API
+
+# Steps
+1. Collect Crypto Prices Using [requests] Library
+2. Collect Investment Data Using Alpaca: SPY/ AGG Stocks
+3. Saving Health Analysis
+4. Run Monte Carlo Simulation
+5. Retirement Analysis
+
 # Visuals of Savings
 ### Personal Savings Analysis
 ![image](https://user-images.githubusercontent.com/80294571/123560764-46436e80-d772-11eb-8bc7-455eccfa59d3.png)
