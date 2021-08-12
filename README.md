@@ -1,4 +1,4 @@
-# Personal Financial Planner
+# Your Personal Financial Planner
 This project was created in Python using two tools that are used for finaincial planning. Creating a Personal Finance Planner that allowed users to visualize their savings composed by investments split between shares and cryptocurrencies. 
 Also createing a Retirement Planning Tool that will use the Alpaca API to grab historical closing prices for a projected retirement portfolio composed of stocks and bonds, later running a few different Monte Carlo simulations to project the portfolio performance at 30 years. 
 ### Added Projections
