@@ -101,7 +101,7 @@ Fetch the summary statistics from the Monte Carlo simulation results. Make the i
 
 ### Summary:
 I adjusted the portfolio to either include more risk (a higher stock than bond ratio) or maximize the initial investment and rerun the retirement analysis to see what it would take to retire in 5 or 10 years instead of 30!
-Calculate the five years worth of historical data used for SPY & AGG with the aide of the Alpaca API applying the **(get_barset())** function. as well as the Monte Carlo simulation configuration that was adjusted to 30 years *(MCForecastTools)*
+Calculate the five years worth of historical data used for SPY & AGG with the aide of the Alpaca API applying the **(get_barset())** function. as well as the Monte Carlo simulation configuration that was adjusted to 10 & 5 years *(MCForecastTools)*
 #### Short Term Retirement Projections-Monte Carlo Simuations (Line Plots):
 ##### 10 Year Simulation: 
 
